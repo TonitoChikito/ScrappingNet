@@ -100,6 +100,7 @@ Ejecuta en terminal:
 
 ```bash
 dotnet restore
+dotnet build
 ```
 
 | Paquete NuGet                         | Versión   | Descripción                                                   |
